@@ -5,15 +5,17 @@ This project aims to predict the final accuracy of a Deep Neural Network (DNN) b
 
 
 ## Files
-├── data/ # Directory containing data files 
-├── models/ # Directory containing trained models and results
-├── scripts/ 
-│ ├── train.py # Script for training models
-│ ├── evaluate.py # Script for evaluating models
-│ ├── utils.py # Utility functions for data loading and preprocessing
-├── README.md # Project documentation
-├── requirements.txt # List of dependencies
-└── .gitignore # Git ignore file to exclude unnecessary fil
+.
+├── data/                 # Directory containing data and files
+├── models/               # Directory containing trained models and results
+├── scripts/              
+│   ├── train.py          # Script for training models
+│   ├── evaluate.py       # Script for evaluating models
+│   ├── utils.py          # Utility functions for data loading and preprocessing
+├── README.md             # Project documentation
+├── requirements.txt      # List of dependencies
+└── .gitignore            # Git ignore file to exclude unnecessary files
+
 
 
 ## Installing rerquirements
