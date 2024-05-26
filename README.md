@@ -5,7 +5,7 @@ This project aims to predict the final accuracy of a Deep Neural Network (DNN) b
 
 
 ## Files
-'''
+```
 .
 ├── data/                 # Directory containing data and files
 ├── models/               # Directory containing trained models and results
@@ -16,7 +16,7 @@ This project aims to predict the final accuracy of a Deep Neural Network (DNN) b
 ├── README.md             # Project documentation
 ├── requirements.txt      # List of dependencies
 └── .gitignore            # Git ignore file to exclude unnecessary files
-'''
+```
 
 
 ## Installing rerquirements
