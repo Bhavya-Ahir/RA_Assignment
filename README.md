@@ -24,12 +24,12 @@ This project aims to predict the final accuracy of a Deep Neural Network (DNN) b
 pip install -r requirements.txt
 ```
 
-## To train and save the models run
+# To train and save the models run below
 ```
 python scripts/train.py
 ```
 
-## To just use the saved models and re-create result run below, results would be added in csv format under /models dir
+# To use the pre-saved models and re-create result run below, results would be added in csv format under /models dir
 ```
 python scripts/evaluate.py
 ```
